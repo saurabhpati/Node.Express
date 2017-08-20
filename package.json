@@ -1,0 +1,39 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "node files for this project",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.1",
+    "mongodb": "^2.2.24",
+    "npm": "^1.0.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "jshint-stylish": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.api.com/saurabhpati"
+  },
+  "keywords": [
+    "node",
+    "learning",
+    "saurabh",
+    "pati"
+  ],
+  "author": "Saurabh Pati",
+  "license": "ISC"
+}

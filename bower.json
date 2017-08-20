@@ -1,0 +1,27 @@
+{
+  "name": "nodeproject",
+  "description": "node files for this project",
+  "main": "main.js",
+  "authors": [
+    "Saurabh Pati"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "learning",
+    "saurabh",
+    "pati"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
